@@ -1,0 +1,2 @@
+# flutter_os
+Flutter调用android的电量和判断是否充电
